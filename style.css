@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+}
+
+#container {
+  left: 20%;
+  top: 75px;
+  position: absolute;
+  width: 60%;
+  height: 500px;
+  background-color: #23e8f3de;
+}
+
+h3 {
+  text-align: center;
+  color: green;
+}
+
+#btn1 {
+  color: green;
+  font-weight: bold;
+}
+
+#input {
+  position: absolute;
+  bottom: 15px;
+  left: 35%;
+}
+
+label {
+  font-size: 1.5rem;
+  color: red;
+}
+
+#newdiv {
+  margin-left: 100px;
+  padding-top: 10px;
+}
